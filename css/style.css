@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    text-align: center;
+}
+
+div {
+    width: 70%;
+    display: inline-block;
+    background-color: aqua;
+}
+
+div.header {
+
+}
+
+div.content {
+
+}
+
+div.footer {
+
+}
+
+ul.nav {
+    list-style-type: none;
+}
